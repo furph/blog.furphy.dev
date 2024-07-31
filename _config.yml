@@ -1,1 +1,8 @@
+title: Furphy Blog
+email: hello@furphy.dev
+url: blog.furphy.dev
+
 theme: minima
+plugins:
+  - jekyll-feed
+
